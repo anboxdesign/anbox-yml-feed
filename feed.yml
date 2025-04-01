@@ -37,8 +37,6 @@
         <param name="Ближайшая дата">2025-04-22</param>
         <param name="Продолжительность" unit="месяц">2</param>
 
-        <param name="План" order="1" unit="Программа курса" hours="0"><![CDATA[ Подробная программа курса доступна на сайте https://anboxdesign.ru/study ]]></param>
-
         <param name="Формат обучения">Самостоятельно с наставником</param>
         <param name="Есть вебинары">true</param>
         <param name="Есть домашние работы">true</param>
@@ -46,7 +44,7 @@
         <param name="Есть текстовые уроки">true</param>
         <param name="Есть сообщество">true</param>
 
-        <param name="Сложность">Для дизайнеров с опытом работы от 1 года</param>
+        <param name="Сложность">Для опытных</param>
         <param name="Тип обучения">Курс</param>
         <param name="Есть бесплатная часть">false</param>
         <param name="Результат обучения">Сертификат</param>
